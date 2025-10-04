@@ -136,7 +136,7 @@ The system comes with a pre-configured admin account:
 - **Email**: admin@gmail.com
 - **Password**: Admin@108
 
-**Important**: Change these credentials after first login for security purposes.
+**Important**: Do not Change these credentials after first login you can add new Admin.
 
 ## 🧪 Running Tests
 
