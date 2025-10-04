@@ -296,10 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
-
-1. Check the existing issues in the repository
-2. Create a new issue with detailed description
-3. Contact the development team
+ Email: dipakdh12345@gmail.com
 
 ## 🔄 Future Enhancements
 
