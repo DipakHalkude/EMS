@@ -116,7 +116,7 @@ npm install
 #### Start Backend Server
 ```bash
 # From server directory
-npm start
+nodemon index.js
 ```
 
 #### Start Frontend Development Server
